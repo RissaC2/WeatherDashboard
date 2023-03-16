@@ -14,6 +14,9 @@ https://stackoverflow.com/
 Weather Dashboard
 
 
+![Weather app SC](https://user-images.githubusercontent.com/105446766/225747771-d128061e-d7eb-4dde-bd1c-6a2c6449cf9e.png)
+
+
 ##Website links
 Deployed link
 github link
