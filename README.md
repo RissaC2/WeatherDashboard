@@ -19,7 +19,7 @@ Weather Dashboard
 
 ##Website links
 Deployed link- https://rissac2.github.io/WeatherDashboard/
-github link
+github link- https://github.com/RissaC2/WeatherDashboard
 
 ##License
 MIT License
